@@ -1,0 +1,3 @@
+telethon
+deep-translator
+colorama
